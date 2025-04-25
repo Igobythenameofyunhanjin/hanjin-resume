@@ -13,6 +13,8 @@
   - 특히 세균검사처럼 자유 입력 방식이 필요한 항목도 수작업 없이 자동 생성.  
   - 수작업 대비 평균 리포트 생성 시간 대폭 단축.
 
+- **🖼️ 세균검사 리포트 예시**     
+  - ![alt text](./images/image-1.png)
 ---
 
 # 🛠️ Automation & System Improvement Highlights (English)
@@ -30,3 +32,5 @@
   - Successfully automated even complex tests like bacterial reports where users freely select test items (e.g., antibiotics).  
   - Reduced manual work and increased reporting consistency across test types.
 
+- **🖼️bacterial report e. g.**    
+  - ![alt text](./images/image-1.png)

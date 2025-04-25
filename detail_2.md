@@ -13,6 +13,8 @@
   - 분자세포유전, NGS 검사 등 정기적으로 새로 정의되는 항목도 자동 적용.  
   - 검사 시스템 유연성 및 실무 대응 속도 향상.
 
+- **🖼️ 알레르기 결과입력화면 예시**   
+  - ![alt text](./images/image-3.png)
 ---
 
 # 🛠️ Automation & System Improvement Highlights (English)
@@ -29,3 +31,6 @@
   - Fully automated dynamic screen setup for non-standard tests like genomics and allergies.  
   - Examples include molecular cytogenetic tests and NGS, which are regularly updated.  
   - Greatly improved operational speed and adaptability of the system.
+
+- **🖼️ Allergic Result Entry UI e. g.**   
+  - ![alt text](./images/image-3.png)

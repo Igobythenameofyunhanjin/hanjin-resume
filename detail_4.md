@@ -21,7 +21,9 @@
   * 예시: 검사항목, 기기, 시약 등 매번 반기별로 달라지는 데이터 CRUD 자동화
 
 ## 📘 사용자 매뉴얼 제작
-- 사용자들이 시스템을 원활히 사용할 수 있도록 기능 매뉴얼 문서 제작
+- 사용자들이 시스템을 원활히 사용할 수 있도록 기능 매뉴얼 문서 제작    
+- ![alt text](./images/image-temp8.png)
+
 
 # 🛠️ Maintenance Work Experience
 
@@ -47,3 +49,4 @@
 
 ## 📘 User Manual Creation
 - Created documentation to guide users in using the system smoothly
+- ![alt text](./images/image-temp8.png)

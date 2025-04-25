@@ -22,7 +22,7 @@
 
 ## 📘 사용자 매뉴얼 제작
 - 사용자들이 시스템을 원활히 사용할 수 있도록 기능 매뉴얼 문서 제작    
-- ![alt text](./images/image-temp8.png)
+- ![alt text](../images/image-temp8.png)
 
 
 # 🛠️ Maintenance Work Experience
@@ -49,4 +49,4 @@
 
 ## 📘 User Manual Creation
 - Created documentation to guide users in using the system smoothly
-- ![alt text](./images/image-temp8.png)
+- ![alt text](../images/image-temp8.png)

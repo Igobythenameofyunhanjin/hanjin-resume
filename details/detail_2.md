@@ -14,7 +14,7 @@
   - 검사 시스템 유연성 및 실무 대응 속도 향상.
 
 - **🖼️ 알레르기 결과입력화면 예시**   
-  - ![alt text](./images/image-3.png)
+  - ![alt text](../images/image-3.png)
 ---
 
 # 🛠️ Automation & System Improvement Highlights (English)
@@ -33,4 +33,4 @@
   - Greatly improved operational speed and adaptability of the system.
 
 - **🖼️ Allergic Result Entry UI e. g.**   
-  - ![alt text](./images/image-3.png)
+  - ![alt text](../images/image-3.png)

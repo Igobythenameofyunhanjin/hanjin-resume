@@ -79,6 +79,7 @@ I managed overall logic planning, development, maintenance, and automation of th
 ## 🚪 (주)에이씨케이 퇴사 사유 / Reason for Resignation
 - 거주지 인근으로 출퇴근 가능한 회사 희망
 - 외국계 기업 희망
+- 연봉상향 희망
 
 ## 💰 희망 연봉 / Desired Salary
 - **4,300만 원 이상 / 43M KRW or higher (협의 가능 / Negotiable)**

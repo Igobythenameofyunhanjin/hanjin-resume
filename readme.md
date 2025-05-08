@@ -82,4 +82,4 @@ I managed overall logic planning, development, maintenance, and automation of th
 - 연봉상향 희망
 
 ## 💰 희망 연봉 / Desired Salary
-- **4,300만 원 이상 / 43M KRW or higher (협의 가능 / Negotiable)**
+- **5,000만 원 이상 / 50M KRW or higher (협의 가능 / Negotiable)**
